@@ -2,6 +2,12 @@
 
 Seeking-Fox is a customized version of Mozilla’s Firefox web browser, reimagined for research, education, and academic collaboration.
 
+> **⚠️ Project Status: In Development**
+>
+> Seeking-Fox is currently in active development and is not yet production-ready.  
+> **We are looking for developers, contributors, and collaborators!**  
+> If you are interested in building tools for research, education, and academia, please consider joining us.
+
 ## Mission
 
 Our goal is to empower students, educators, and researchers with advanced, privacy-respecting tools that streamline the process of discovering, organizing, and sharing knowledge from the web.
@@ -60,7 +66,7 @@ cd Seeking-Fox
 ## Contributing
 
 Seeking-Fox is at an early stage—your input shapes its direction!  
-We welcome contributions from educators, students, researchers, and developers.
+**We need developers, educators, students, and researchers to contribute and help this project grow.**
 
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - Feature suggestions? Open an issue or join the discussion!
