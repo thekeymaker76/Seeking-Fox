@@ -1,22 +1,32 @@
-# Firefox Security FAQ
+# Security Policy
 
-General information about security at Mozilla is available at [https://www.mozilla.org/en-US/security/](https://www.mozilla.org/en-US/security/).
+## Reporting a Vulnerability
 
-## I want to report a security bug\!
+If you discover a security vulnerability in Seeking-Fox, please help us keep our users safe by following these steps:
 
-Please report Firefox bugs in our Bugzilla instance by using [our bug bounty form](https://bugzilla.mozilla.org/form.client.bounty). Be aware that your e-mail address will be made public. See our [Bugzilla etiquette](https://bugzilla.mozilla.org/page.cgi?id=etiquette.html) for more.
+1. **Do not file a public issue.**
+2. **Email us directly at josh.mezentsev@gmail.com.**
+   - Please include as much detail as possible (steps to reproduce, affected versions, potential impact, etc.).
+3. **We will acknowledge your report within 7 days** and work with you to assess and address the issue promptly.
 
-## Do you have a bounty program?
+## Supported Versions
 
-We have two:
+| Version      | Supported          |
+| ------------ | ----------------- |
+| Main branch  | :white_check_mark: |
+| Older forks  | :x:               |
 
-* Firefox browsers fall under the [Firefox bug bounty program](https://www.mozilla.org/en-US/security/client-bug-bounty/) which is handled on Bugzilla.
-* The general [Mozilla Security Bug Bounty Program](https://www.mozilla.org/en-US/security/bug-bounty/) also covers other products and services and is on HackerOne.
+We generally only provide security updates for the latest stable version on the main branch.
 
-## I have a question\! Who can help?
+## Disclosure Policy
 
-Questions regarding security bugs or our bounty programs can be directed to [security@mozilla.com](mailto:security@mozilla.com). An encryption key for sending [GPG encrypted mails](https://www.mozilla.org/en-US/security/#pgpkey) is also available.
+- We ask that you give us a reasonable amount of time to respond and address the vulnerability before any public disclosure.
+- We will update you as we work to resolve the issue.
+- Once a fix has been released, we will publicly acknowledge your contribution (if desired).
 
-## Where can I find security advisories?
+## Best Practices
 
-We publish [Firefox security advisories](https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/) for all released versions of Firefox Desktop. For other products including Firefox for iOS and Android please refer to the [overview](https://www.mozilla.org/en-US/security/advisories/).
+- Keep your Seeking-Fox installation up to date with the latest version.
+- Review our [Code of Conduct](CODE_OF_CONDUCT.md) for guidelines on responsible reporting and behavior.
+
+Thank you for helping keep Seeking-Fox and its users secure!
